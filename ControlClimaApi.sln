@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlClimaApi", "ControlClimaApi\ControlClimaApi.csproj", "{A4508BF1-90EC-4CE1-AABD-BB87ABD6653C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlClimaApi", "ControlClimaApi\ControlClimaApi.csproj", "{A4508BF1-90EC-4CE1-AABD-BB87ABD6653C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlClimaApi.Domain", "ControlClimaApi.Domain\ControlClimaApi.Domain.csproj", "{925D60FD-A7BF-460A-9228-ED07416C6FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlClimaApi.Aplication", "ControlClimaApi.Aplication\ControlClimaApi.Aplication.csproj", "{1F0A82F6-A493-460D-AA84-98B54F194014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlClimaApi.Infraestructure", "ControlClimaApi.Infraestructure\ControlClimaApi.Infraestructure.csproj", "{71406A22-D58E-409B-8F48-EEE2740D7C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{A4508BF1-90EC-4CE1-AABD-BB87ABD6653C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4508BF1-90EC-4CE1-AABD-BB87ABD6653C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4508BF1-90EC-4CE1-AABD-BB87ABD6653C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925D60FD-A7BF-460A-9228-ED07416C6FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D60FD-A7BF-460A-9228-ED07416C6FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D60FD-A7BF-460A-9228-ED07416C6FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D60FD-A7BF-460A-9228-ED07416C6FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0A82F6-A493-460D-AA84-98B54F194014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0A82F6-A493-460D-AA84-98B54F194014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0A82F6-A493-460D-AA84-98B54F194014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0A82F6-A493-460D-AA84-98B54F194014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71406A22-D58E-409B-8F48-EEE2740D7C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71406A22-D58E-409B-8F48-EEE2740D7C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71406A22-D58E-409B-8F48-EEE2740D7C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71406A22-D58E-409B-8F48-EEE2740D7C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

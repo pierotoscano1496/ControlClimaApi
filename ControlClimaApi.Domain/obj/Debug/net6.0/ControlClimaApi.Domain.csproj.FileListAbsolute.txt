@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\bin\Debug\net6.0\ControlClimaApi.Domain.deps.json
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\bin\Debug\net6.0\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\bin\Debug\net6.0\ControlClimaApi.Domain.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\refint\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ControlClimaApi.Domain.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Domain\obj\Debug\net6.0\ref\ControlClimaApi.Domain.dll

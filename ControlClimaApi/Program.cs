@@ -1,29 +1,31 @@
-using ControlClimaApi.Models;
-using ControlClimaApi.Models.DBContext;
-using ControlClimaApi.Models.DBContext.Interfaces;
+using ControlClimaApi.Infraestructure.Persistance;
 
-//string corsAllowSpecificOriginsName = "AllowSpecificOrigins";
+string originsAllowed = "originsAllowed";
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddSingleton<IControlClimaContext, ControlClimaContext>();
-builder.Services.AddSingleton<IUsuarioContext, UsuarioContext>();
-builder.Services.AddSingleton<IClimaContext, ClimaContext>();
+// Infraestructure services
+builder.Services.AddPersistanceInfraestructure();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-/*
+// HTTP client
+builder.Services.AddHttpClient("SensorServer", (client) =>
+{
+    client.BaseAddress = new Uri("http://192.168.1.22/");
+});
+
+// CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy(corsAllowSpecificOriginsName, builder =>
+    options.AddPolicy(originsAllowed, builder =>
     {
         builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
     });
-});*/
+});
 
 var app = builder.Build();
 
@@ -34,7 +36,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseCors(corsAllowSpecificOriginsName);
+app.UseCors(originsAllowed);
 
 app.UseHttpsRedirection();
 

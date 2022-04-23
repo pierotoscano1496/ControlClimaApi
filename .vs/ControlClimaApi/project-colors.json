@@ -10,7 +10,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Archivos varios",
       "ColorIndex": -1
+    },
+    "35190500-eebd-4e03-ab25-61bea935d740": {
+      "ProjectGuid": "35190500-eebd-4e03-ab25-61bea935d740",
+      "DisplayName": "ControlClimaApi.Infraestructure",
+      "ColorIndex": 1
+    },
+    "b3ad837d-ab48-4722-8bb1-73339d5631b1": {
+      "ProjectGuid": "b3ad837d-ab48-4722-8bb1-73339d5631b1",
+      "DisplayName": "ControlClimaApi.Domain",
+      "ColorIndex": 2
+    },
+    "9bac8d17-500c-4e86-850d-c45dd00580e9": {
+      "ProjectGuid": "9bac8d17-500c-4e86-850d-c45dd00580e9",
+      "DisplayName": "ControlClimaApi.Aplication",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

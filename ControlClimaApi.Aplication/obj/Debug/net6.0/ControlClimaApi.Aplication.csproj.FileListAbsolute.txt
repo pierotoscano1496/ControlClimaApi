@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\bin\Debug\net6.0\ControlClimaApi.Aplication.deps.json
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\bin\Debug\net6.0\ControlClimaApi.Aplication.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\bin\Debug\net6.0\ControlClimaApi.Aplication.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\bin\Debug\net6.0\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\bin\Debug\net6.0\ControlClimaApi.Domain.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.AssemblyInfo.cs
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.csproj.CopyComplete
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\refint\ControlClimaApi.Aplication.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ControlClimaApi.Aplication.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Aplication\obj\Debug\net6.0\ref\ControlClimaApi.Aplication.dll

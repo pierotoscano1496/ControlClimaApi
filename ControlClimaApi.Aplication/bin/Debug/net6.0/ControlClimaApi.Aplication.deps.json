@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ControlClimaApi.Aplication/1.0.0": {
+        "dependencies": {
+          "ControlClimaApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ControlClimaApi.Aplication.dll": {}
+        }
+      },
+      "ControlClimaApi.Domain/1.0.0": {
+        "runtime": {
+          "ControlClimaApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlClimaApi.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlClimaApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

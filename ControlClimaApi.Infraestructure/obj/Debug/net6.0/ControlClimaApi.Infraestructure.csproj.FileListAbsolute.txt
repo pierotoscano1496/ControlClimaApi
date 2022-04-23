@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.AssemblyInfo.cs
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Infraestructure.deps.json
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Infraestructure.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Infraestructure.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Aplication.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Aplication.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\bin\Debug\net6.0\ControlClimaApi.Domain.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.csproj.CopyComplete
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\refint\ControlClimaApi.Infraestructure.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ControlClimaApi.Infraestructure.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi.Infraestructure\obj\Debug\net6.0\ref\ControlClimaApi.Infraestructure.dll

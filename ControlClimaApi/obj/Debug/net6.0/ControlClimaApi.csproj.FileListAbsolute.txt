@@ -4,7 +4,6 @@ C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\Contro
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.deps.json
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.runtimeconfig.json
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.dll
-C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ref\ControlClimaApi.dll
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.pdb
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\Google.Protobuf.dll
@@ -44,3 +43,10 @@ C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\obj\Debug\net6.0\Contro
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\obj\Debug\net6.0\ref\ControlClimaApi.dll
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\obj\Debug\net6.0\ControlClimaApi.pdb
 C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\obj\Debug\net6.0\ControlClimaApi.genruntimeconfig.cache
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Aplication.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Domain.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Infraestructure.dll
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Infraestructure.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Aplication.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\bin\Debug\net6.0\ControlClimaApi.Domain.pdb
+C:\Users\HP\source\repos\ControlClimaApi\ControlClimaApi\obj\Debug\net6.0\refint\ControlClimaApi.dll
