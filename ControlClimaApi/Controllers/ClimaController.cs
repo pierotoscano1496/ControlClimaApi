@@ -107,7 +107,7 @@ namespace ControlClimaApi.Controllers
             }
         }
 
-        [HttpGet("consulta/{idUsuario}/{fechaInicio}/{fechaFin}/{idUbicacion}")]
+        [HttpGet("consulta/{idUsuario}/{fechaInicio}/{fechaFin}/{idUbicacion?}")]
         public IActionResult ObtenerClimasFormulario(int idUsuario, DateTime fechaInicio, DateTime fechaFin, int? idUbicacion = null)
         {
             try
